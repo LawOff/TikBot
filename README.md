@@ -29,9 +29,9 @@
 
 ### Option 1 (Online):
     
-<a target="_blank" href="https://replit.com/github/LawOff/TikBot"><img alt="Run on Replit" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg"></a>
+<a target="_blank" href="https://replit.com/github/LawOff/TikBot2"><img alt="Run on Replit" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg"></a>
     
-<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/LawOff/TikBot"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg"></a>
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/LawOff/TikBot2"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg"></a>
     
 ### Option 2 (Local):
 
@@ -52,7 +52,7 @@ python TikBot.py
 
 ## Credits:
 
-This script is fork from [Wizz1337](https://github.com/Wizz1337 "Wizz1337").
+This script is fork from [Wizz1337](https://github.com/Wizz1337/TikTokMassBotting "Wizz1337").
 Support him here:
 ```
 Xin1337 / Wizz1337 :
