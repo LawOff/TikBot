@@ -1,50 +1,67 @@
-<h1 align="center">💎TMB {TikTok Mass Botting}</h1>
+---
 
-<p align='center'>
-  <b>Star ⭐ if you want more</b><br>
+<h3 align="center">TikBot (BETA) </h3>
+
+<p align="center">
+    <a href="https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCbfGHhyeHpKXF5rl1cRfvbg&key=AIzaSyDvBOxP4M5Ygutbku6_3whU2YR6xV9KKV8&style=for-the-badge&color=red&labelColor=ce4630&label=Subscribers"/></a> 
+    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+      <img alt="youtube views" title="YouTube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCbfGHhyeHpKXF5rl1cRfvbg&key=AIzaSyDvBOxP4M5Ygutbku6_3whU2YR6xV9KKV8&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+  <a href="https://discord.gg/cPKc5B6Gnv" alt="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  </p>
 </p>
+<p align="center"> A TikTok bot to send unlimited shares to a TikTok video </p>
 
+---
 
-## Features
-```js
-  * View botting
-  * Share botting (not patched you can do a ton of share)
-  * Easy to use, Fast
-  * Compatible Linux / Win / (didnt tested for macos)
-  * Proxy Scrapper integrated
+## Video Tutorial:
+<table><tr><td><a href="https://www.youtube.com/watch?v=#####"><img width="300px" src="https://i.imgur.com/####"></a></td>
+<td><a href="https://www.youtube.com/watch?v=#####">No video for the moment</a><br/>XXX X, 2022</td></tr></table>
+
+## TikBot Preview:
+<div align="center">
+<img width="500px" src="https://i.imgur.com/KaNiNKT.png"></a>
+<div align="left">
+
+    
+## Installation:
+
+### Option 1 (Online):
+    
+<a target="_blank" href="https://replit.com/github/LawOff/TikBot"><img alt="Run on Replit" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg"></a>
+    
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/LawOff/TikBot"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg"></a>
+    
+### Option 2 (Local):
+
+Download the [Latest](https://github.com/LawOff/TikBot/releases "Latest") Release.
+
+### Requirements:
+
+```
+pip install -r requirements.txt
 ```
 
-## Installation
+### Run the script:
+
 ```
-  * pip install requests pystyle
+python TikBot.py
 ```
 
-##  Usage:
-```
-  * python <ShareBot.py or ViewBot.py>
-  * paste video url
-  * choose amount
-  * enter yes or no if you want to scrap proxie
-  * enter proxy type you put in Proxies.txt
-  * enter proxy timeout | choose 3 if you want a good timeout
-  * enter thread | more thread = faster but make your computer slower | choose 100~1000
-```
 
-## Tricks
-```js
-  * Use on vps (Faster !)
-  * Run 3 times one with http proxy type, one with socks4 proxy type and same for socks5
-```
+## Credits:
 
-## Scammers
-```js
-  * yezzjoestar#0001   | 923211134901841982    | Selling tool for 20E
-  * Biloo#8484         | 963482748914384957    | Skid
-  * Uhky#0001          | 955883575604019310    | Skid + Veski
-  * ΞZIR#0001          | 962708528118767646    | Skid
+This script is fork from [Wizz1337](https://github.com/Wizz1337 "Wizz1337").
+Support him here:
 ```
+Xin1337 / Wizz1337 :
+BTC : bc1q7qetejfa3q8ukkqcn3ct9fctcah34q2rlvvnl4
+telegram : xin1337w
+```
+  
+- #### **Why did I copy the repo instead of sharing the author's?**
+This repo is "fork", in case the author changes his original repo and puts a malicious program,
+I prefer to take the responsibility to copy the code.
 
-##  Credits:
- > [![](https://cdn.discordapp.com/avatars/916040642369552414/a_1b5cc1dee6489570f593d1117a775fc7.gif?size=40)](https://github.com/wizz1337) <br>Xin1337 / Wizz1337 :
- <br>BTC : bc1q7qetejfa3q8ukkqcn3ct9fctcah34q2rlvvnl4
- <br>telegram : xin1337w
+Last Edit: **18/04/2022.**
