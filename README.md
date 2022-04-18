@@ -37,16 +37,17 @@
 
 Download the [Latest](https://github.com/LawOff/TikBot/releases "Latest") Release.
 
-### Requirements:
-
+## Requirements:
 ```
 pip install -r requirements.txt
 ```
 
-### Run the script:
-
+##  Usage:
 ```
-python TikBot.py
+  * Python TikBot.py
+  * Paste video url
+  * Choose amount
+  * Put Y or N for Debug
 ```
 
 
